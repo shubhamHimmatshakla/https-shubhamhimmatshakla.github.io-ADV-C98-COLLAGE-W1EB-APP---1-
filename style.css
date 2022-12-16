@@ -1,0 +1,44 @@
+body
+{
+    background: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+h1{
+    font-family:monospace  ;
+    font-weight: bold;
+}
+
+h4
+{
+    color:red;
+}
+
+#camera
+{
+    width: 390px;
+    height: 350px;
+    border:1px solid rgb(87, 2, 2);
+}
+
+img
+{
+    width: 25%;
+    height: 40%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+#button{
+   background-color: rgb(12, 99, 199);
+}
+#h3{
+    color: rgb(143, 10, 10);
+    background-color: #46eefa;
+    width: 30%;
+}
+
+
